@@ -19,10 +19,10 @@ avatar: https://github.com/AnasMunir/AnasMunir.github.io/blob/master/images/prof
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: anas.munir.92@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/AnasMunir
   instagram:
   linkedin:
   pinterest:
@@ -55,7 +55,7 @@ baseurl: ""
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
